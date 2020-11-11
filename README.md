@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-* [AngularJS] (https://nodejs.org/) - HTML enhanced for web apps!
+* [AngularJS](https://nodejs.org/) - HTML enhanced for web apps!
 
 This project contains the Jupyter Notebooks and the associated Dockerfile for Data Incubator's _Essential Math for Data Science_ series
 1. Linear Algebra with Python
