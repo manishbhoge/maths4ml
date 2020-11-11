@@ -2,6 +2,7 @@
 * [AngularJS](https://nodejs.org/) - HTML enhanced for web apps!
 * [Index Page](https://github.com/mbhoge-code4data/maths4ml/blob/main/docs/index.md) - Index 
 * [IPynb file](https://github.com/mbhoge-code4data/maths4ml/blob/main/OR_Linear_Algebra.ipynb)
+* [MapandLambda](https://github.com/mbhoge-code4data/CodeNinja/blob/master/MapandLambda/email-verification.py)
 
 This project contains the Jupyter Notebooks and the associated Dockerfile for Data Incubator's _Essential Math for Data Science_ series
 1. Linear Algebra with Python
